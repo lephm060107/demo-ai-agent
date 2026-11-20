@@ -1,0 +1,17 @@
+KÍNH GỬI: PHÒNG KINH DOANH - CÔNG TY THIÊN MINH
+BÊN YÊU CẦU: CÔNG TY XÂY DỰNG & ĐẦU TƯ ĐÔNG Á
+NGƯỜI LIÊN HỆ: Anh Tuấn (Phòng Hành chính - IT)
+NGÀY GỬI: 11/11/2026
+
+NỘI DUNG YÊU CẦU CHÀO GIÁ:
+Chào bên Thiên Minh,
+Công ty chúng tôi sắp chuyển về văn phòng mới diện tích 400m2. Chúng tôi cần bên bạn cung cấp thiết bị và triển khai hệ thống mạng internet, wifi cho văn phòng.
+Yêu cầu gồm có:
+- Cần vài cái switch để cắm máy tính và điện thoại bàn, có cấp nguồn PoE.
+- Cần một con Firewall để chặn web linh tinh và bảo vệ mạng công ty.
+- Cần phủ sóng Wi-Fi toàn bộ văn phòng cho nhân viên truy cập ổn định, không bị chập chờn.
+- Nhờ bên bạn kéo dây mạng và lắp đặt hoàn chỉnh vào tủ mạng.
+- Cần bảo trì bảo hành chu đáo.
+
+Nhờ Thiên Minh gửi gấp báo giá sớm nhất có thể trong tuần này để sếp duyệt.
+

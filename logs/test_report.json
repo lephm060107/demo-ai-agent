@@ -1,0 +1,62 @@
+{
+  "total": 11,
+  "passed": 11,
+  "failed": 0,
+  "results": [
+    {
+      "test": "1.1 Normal Workflow (Case 1 đầy đủ)",
+      "status": "PASS",
+      "detail": "Status=COMPLETED, Net=290,795,000 đ, Margin=25.79%, Tools=13"
+    },
+    {
+      "test": "1.2 DocumentReaderTool đọc file thực tế",
+      "status": "PASS",
+      "detail": "DocType=Text/CSV, Chars=2258, ToolCallID=TC-001"
+    },
+    {
+      "test": "2.1 Missing Data (Case 2 thiếu thông tin -> Gate 1 Block)",
+      "status": "PASS",
+      "detail": "Status=PAUSED_AT_GATE_1, Missing=3 nhóm"
+    },
+    {
+      "test": "2.2 Contradiction Test (Mâu thuẫn Timeline -> Gate 1 Block)",
+      "status": "PASS",
+      "detail": "Inconsistencies=['MÂU THUẪN LỊCH TRÌNH: Ngày bắt đầu (25/12/2026) đang nằm SAU ngày hoàn thành (10/12/2026).']"
+    },
+    {
+      "test": "2.3 Unmatched Technical Spec (Yêu cầu PoE nhưng chỉ có Non-PoE -> Gate 2 Block)",
+      "status": "PASS",
+      "detail": "Status=STOPPED_AT_GATE_2_UNMATCHED, Unmatched=Switch"
+    },
+    {
+      "test": "3.1 Discount Threshold Boundaries (5.0% / 5.01% / 15.0% / 15.01%)",
+      "status": "PASS",
+      "detail": "5.0%->True | 5.01%->Mgr(True) | 15.0%->Mgr(True) | 15.01%->Dir(True)"
+    },
+    {
+      "test": "3.2 Gross Margin Boundaries (25.0% / 24.99% / 18.0% / 17.99%)",
+      "status": "PASS",
+      "detail": "25.0%->Self | 24.99%->Mgr | 18.0%->Mgr | 17.99%->Dir(True)"
+    },
+    {
+      "test": "3.3 Stock Boundary (stock==qty=2 vs stock==qty-1=1)",
+      "status": "PASS",
+      "detail": "stock=2 warns=0 | stock=1 warns=1"
+    },
+    {
+      "test": "3.4 Timeline Boundary (13d == req OK vs 12d < req CONFLICT)",
+      "status": "PASS",
+      "detail": "13d->OK | 12d->CONFLICT"
+    },
+    {
+      "test": "3.5 HITL Transition Boundaries (None -> WAITING | REJECTED -> FAIL | APPROVED -> COMPLETED)",
+      "status": "PASS",
+      "detail": "None->WAITING_HITL_APPROVAL | Rej->FAILED_QUALITY_GATE | App->COMPLETED"
+    },
+    {
+      "test": "4.1 New Dataset Compatibility (Zero Hardcoding SKU/Price)",
+      "status": "PASS",
+      "detail": "Matched Solutions=HPE Aruba CX 6200F 24G PoE+ Switch (HPE-ARUBA-6200F-24P) Palo Alto PA-440 Next-Gen Firewall (PA-440-NGFW) Ubiquiti UniFi U6-Pro Enterprise AP (U6-PRO-WIFI6) Tủ mạng Rack 27U Pro Vietrack (RACK-27U-PRO) Thùng cáp LS Simple Cat6A UTP 305m (CAT6A-LS-305M) Bộ lưu điện APC Smart-UPS 3000VA Online (APC-SRT3K-NEW), NetPrice=236,645,000 đ"
+    }
+  ]
+}

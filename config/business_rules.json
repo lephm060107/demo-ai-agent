@@ -1,0 +1,45 @@
+{
+  "metadata": {
+    "description": "Cấu hình quy tắc nghiệp vụ cho Hệ thống AI Agent B2B Sales. Có thể chỉnh sửa qua giao diện hoặc API mà không cần sửa code.",
+    "version": "1.0.0"
+  },
+  "completeness_rules": {
+    "require_customer_name": true,
+    "require_location": false,
+    "require_items_with_quantity": true,
+    "require_mandatory_tech_specs": true,
+    "require_timeline": true,
+    "require_sla": true,
+    "require_budget": false
+  },
+  "matching_and_sizing_rules": {
+    "default_nodes_when_unspecified": 50,
+    "nodes_per_user_ratio": 1.0,
+    "require_exact_poe_match": true,
+    "require_exact_l3_match": true,
+    "require_ha_dual_unit_check": false
+  },
+  "deployment_and_capacity_rules": {
+    "max_concurrent_projects_per_team": 2,
+    "rush_schedule_buffer_days": 0,
+    "default_inventory_hold_days": 5
+  },
+  "approval_policy_thresholds": {
+    "sales_rep_max_discount_pct": 5.0,
+    "manager_max_discount_pct": 15.0,
+    "sales_rep_min_gross_margin_pct": 25.0,
+    "manager_min_gross_margin_pct": 18.0,
+    "large_deal_threshold_vnd": 300000000,
+    "require_approval_for_out_of_catalog": true,
+    "require_approval_for_rush_schedule": true,
+    "require_approval_for_deferred_payment": true,
+    "require_approval_for_budget_exceeded": false
+  },
+  "quality_gate_rules": {
+    "require_non_empty_boq": true,
+    "require_positive_net_price": true,
+    "require_manager_signoff_if_escalated": true,
+    "require_zero_unmatched_mandatory": true
+  }
+}
+

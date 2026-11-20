@@ -1,0 +1,14 @@
+sku,name,category,specs,stock,lead_time_days,cost_price,list_price
+HPE-ARUBA-6200F-24P,HPE Aruba CX 6200F 24G PoE+ Switch,Switch,"24 cổng Gigabit PoE+ 370W, 4x10G SFP+, Layer 3, VSF Stacking",10,2,22000000,32000000
+HPE-ARUBA-6200F-48P,HPE Aruba CX 6200F 48G PoE+ Switch,Switch,"48 cổng Gigabit PoE+ 740W, 4x10G SFP+, Layer 3, VSF Stacking",5,4,38000000,54000000
+HPE-ARUBA-6000-24T,HPE Aruba CX 6000 24G Non-PoE Switch,Switch,"24 cổng Gigabit RJ45, 4x1G SFP, Layer 2, Non-PoE",12,1,11000000,16000000
+PA-440-NGFW,Palo Alto PA-440 Next-Gen Firewall,Firewall,"Throughput NGFW 2.4Gbps, Threat Prevention 1.1Gbps, 8x GE RJ45, Hỗ trợ SD-WAN & HA",6,3,25000000,36000000
+U6-PRO-WIFI6,Ubiquiti UniFi U6-Pro Enterprise AP,Access Point,"Wi-Fi 6 (802.11ax), Dual-band 4x4 MU-MIMO, 5.3 Gbps aggregate",30,1,4200000,6200000
+CAT6A-LS-305M,Thùng cáp LS Simple Cat6A UTP 305m,Phụ kiện cáp,"Cáp mạng Cat6A chính hãng LS Cable 305m",25,1,2800000,4000000
+RACK-27U-PRO,Tủ mạng Rack 27U Pro Vietrack,Tủ mạng & Phụ kiện,"Tủ rack 27U D800 chuẩn 19 inch",8,2,4200000,6000000
+APC-SRT3K-NEW,Bộ lưu điện APC Smart-UPS 3000VA Online,Nguồn dự phòng,"3000VA / 2700W, Online double conversion",4,4,24000000,33000000
+SRV-INSTALL-BASIC,Dịch vụ khảo sát & lắp đặt cơ bản,Dịch vụ triển khai,"Khảo sát hiện trạng, gắn tủ rack, bấm cáp, dán nhãn, cấu hình VLAN, WiFi",99,0,4000000,7000000
+SRV-INSTALL-PRO,Dịch vụ triển khai & cấu hình nâng cao,Dịch vụ triển khai,"Cấu hình Firewall HA Active-Passive, VPN, SD-WAN",99,0,10000000,15000000
+SVC-MAINT-1Y-8X5,Gói bảo trì tiêu chuẩn 1 năm (8x5),Dịch vụ bảo trì,"Hỗ trợ kỹ thuật giờ hành chính 8x5 SLA 4h",99,0,7000000,11000000
+SVC-MAINT-1Y-24X7,Gói bảo trì cao cấp 1 năm (24x7),Dịch vụ bảo trì,"Hỗ trợ 24x7x365 SLA 4h",99,0,15000000,24000000
+

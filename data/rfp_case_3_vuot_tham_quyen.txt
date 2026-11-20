@@ -1,0 +1,24 @@
+KÍNH GỬI: PHÒNG KINH DOANH - CÔNG TY THIẾT BỊ MẠNG THIÊN MINH
+BÊN YÊU CẦU: TẬP ĐOÀN BÁN LẺ THỜI TRANG SMART-RETAIL
+ĐỊA ĐIỂM TRIỂN KHAI: Tổng kho Logistics VSIP, Thị xã Từ Sơn, Tỉnh Bắc Ninh
+DỰ ÁN: MỞ RỘNG TRUNG TÂM PHÂN PHỐI TỔNG TẠI BẮC NINH
+NGÀY PHÁT HÀNH: 11/11/2026
+THỜI HẠN NỘP HỒ SƠ: Trước 17h00 ngày 13/11/2026
+
+1. YÊU CẦU HẠNG MỤC THIẾT BỊ:
+- 04 Bộ Switch Cisco Catalyst 9200L 48 port PoE+ (tổng 192 cổng PoE 740W).
+- 02 Bộ Firewall Fortinet FortiGate 100F chạy cụm High Availability (HA Active - Standby).
+- 12 Bộ Access Point Aruba AP-515 chuẩn Wi-Fi 6 phủ sóng toàn bộ diện tích kho 5000m2.
+- 02 Bộ lưu điện APC Smart-UPS SRT 3000VA (3kVA Online).
+- 10 Thùng cáp CommScope Cat6 UTP chính hãng.
+- Dịch vụ thi công kéo cáp trọn gói cho 180 điểm mạng và cấu hình nâng cao.
+- Dịch vụ bảo trì: Gói cao cấp On-site 24x7 cam kết SLA phản hồi trong 4 giờ.
+
+2. ĐIỀU KIỆN ĐẶC BIỆT & NGOÀI DANH MỤC:
+- Yêu cầu tích hợp phần mềm định danh người dùng qua giao thức 802.1X với hệ thống ERP nội bộ chuyên dụng (Custom API ngoài danh mục tiêu chuẩn của Thiên Minh).
+- Yêu cầu Giao hàng và Lắp đặt khẩn cấp hoàn thành trước ngày 14/11/2026 (tiến độ thi công rất gấp: chỉ 3 ngày làm việc).
+
+3. ĐIỀU KIỆN THƯƠNG MẠI & GIÁ:
+- Khách hàng yêu cầu mức CHIẾT KHẤU ĐẶC BIỆT 14% trên tổng giá niêm yết (List price).
+- Điều khoản thanh toán: Trả chậm sau 45 ngày kể từ khi nghiệm thu (tạm ứng 0%).
+- Nếu đáp ứng được giá và thời gian, khách hàng sẽ ký hợp đồng bảo trì 3 năm độc quyền.

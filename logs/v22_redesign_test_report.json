@@ -1,0 +1,72 @@
+{
+  "total": 13,
+  "passed": 13,
+  "failed": 0,
+  "results": [
+    {
+      "test": "5.1 Vintage Botanical Palette, Top-Left Sidebar Language Switcher & Zero Dead Links",
+      "status": "PASS",
+      "detail": "Tokens=True, TopLeftLang=True, NoDeadHref=True, MissingHandlers=set(), MissingIDs=set()"
+    },
+    {
+      "test": "5.2 Trilingual I18N Key Parity (VI == EN == JA) & 100% DOM Key Coverage",
+      "status": "PASS",
+      "detail": "VI=589, EN=589, JA=589, MissingDOM=set()"
+    },
+    {
+      "test": "5.3 Language Preference DB Persistence (VI -> EN -> JA -> VI)",
+      "status": "PASS",
+      "detail": "Verified DB round-trip VI -> en -> ja -> vi"
+    },
+    {
+      "test": "5.4 Trilingual AI Agent (EN/JA + Guard) & 4 Grounded AI Insights Cards",
+      "status": "PASS",
+      "detail": "EN_Tools=4, JA_Tools=4, InsightsCards=4x3langs"
+    },
+    {
+      "test": "5.5 Data Transformation Rules (derive_ratio_pct & derive_diff)",
+      "status": "PASS",
+      "detail": "margin_pct[0]=40.0% (Expected 40.0), net_calc[1]=500.0 (Expected 500.0)"
+    },
+    {
+      "test": "5.6 B2B RFQ CRM CRUD, Procurement Pipeline & Quotation Run Detail Comparison API",
+      "status": "PASS",
+      "detail": "PartnerCRUD=True, ProcurementStatus=DELIVERED, RunDetailCompareReady=True"
+    },
+    {
+      "test": "5.7 Admin Workspace & Interactive Dashboard Creation + VIEWER 403 Guard",
+      "status": "PASS",
+      "detail": "ViewerBlocked=True, WorkspaceCreated=True, DashboardCreated=True"
+    },
+    {
+      "test": "5.8 Human-Centered UX: Zero Fake User Titles, Zero Forced RBAC Selector & Full-Name Lang Switcher",
+      "status": "PASS",
+      "detail": "NoFakeIdentity=True, NeutralHeroPresent=True"
+    },
+    {
+      "test": "5.9 10-Point Comprehensive Pre-Analysis Data Validation Checklist (VI/EN/JA)",
+      "status": "PASS",
+      "detail": "ChecksCount=10/10, AllTrilingual=True"
+    },
+    {
+      "test": "5.10 5-Part Explanation, 8-Field Traceability, 8-Point Verification, 9-Field KPI & 5-Category Epistemic AI",
+      "status": "PASS",
+      "detail": "Exp5=True, Trace8=True, Verify8=True, KPI9=True, EpistemicAI5=True"
+    },
+    {
+      "test": "5.11 TSV/Japanese Ingestion, Business Understanding, 10-Step AI Orchestration & PDF/XLSX/TSV/CSV Exports",
+      "status": "PASS",
+      "detail": "TSV_Upload=True, BusinessContext=True, AI10Steps=True, PDF_Bytes=2552"
+    },
+    {
+      "test": "5.12 3-Tier File Validation, Partial Multi-Sheet Recovery, Zero Double-Counting & Error Reports",
+      "status": "PASS",
+      "detail": "L3_Reject=True, PartialWorkbook=True, Orig=5/Valid=4/UniqueAff=5/Occurrences=10, ErrExport=True"
+    },
+    {
+      "test": "5.13 AI Data Cleaning Workspace & All 20 Acceptance Criteria (BOM, 20k/100k Scan, Red Cell Edit, Re-validation, Undo/Redo/Reset)",
+      "status": "PASS",
+      "detail": "BOM=True, 20k=True, 100k_OutPageErr=True, DupHdr=True, RedCells=True, OutlierKept=True, StillRed=True, Fixed=True, VerCtrl=True"
+    }
+  ]
+}

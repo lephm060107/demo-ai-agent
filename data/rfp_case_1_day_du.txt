@@ -1,0 +1,38 @@
+KÍNH GỬI: PHÒNG KINH DOANH - CÔNG TY TNHH THIẾT BỊ MẠNG THIÊN MINH
+BÊN YÊU CẦU: CÔNG TY CỔ PHẦN TẬP ĐOÀN LOGISTICS SAO VÀNG
+ĐỊA CHỈ TRIỂN KHAI: Tầng 5-6, Tòa nhà Golden Star, Quận Cầu Giấy, Hà Nội
+NGÀY PHÁT HÀNH RFQ: 11/11/2026
+THỜI HẠN NỘP HỒ SƠ CHÀO GIÁ: Trước 17h00 ngày 18/11/2026
+
+1. MỤC TIÊU DỰ ÁN:
+Nâng cấp hạ tầng mạng LAN và Wi-Fi văn phòng mới phục vụ cho 150 nhân sự làm việc đồng thời, kết nối dữ liệu bảo mật về Trung tâm dữ liệu tại Khu công nghệ cao.
+
+2. CÁC HẠNG MỤC VÀ YÊU CẦU KỸ THUẬT BẮT BUỘC (MANDATORY):
+- Thiết bị chuyển mạch (Switch Core/Distribution): 
+  + 02 switch 24 cổng hoặc 48 cổng Gigabit PoE+ cấp nguồn cho Access Point và Camera giám sát (tối thiểu chuẩn PoE+ 370W).
+  + Hỗ trợ định tuyến Layer 3, hỗ trợ cổng quang Uplink 10Gbps SFP+.
+- Thiết bị định tuyến & Bảo mật (Firewall):
+  + Tường lửa thế hệ mới (NGFW), thông lượng Threat Protection tối thiểu 500Mbps.
+  + Hỗ trợ cấu hình VPN Site-to-Site IPsec kết nối DC, hỗ trợ VPN SSL cho 50 user làm việc từ xa.
+  + Hỗ trợ High Availability (HA) dự phòng.
+- Hạ tầng Wi-Fi doanh nghiệp:
+  + Tối thiểu 08 Access Point chuẩn Wi-Fi 6 (802.11ax), công nghệ MU-MIMO 4x4, khả năng chịu tải tối thiểu 80 client/AP.
+  + Quản lý tập trung qua Cloud hoặc Controller tích hợp.
+- Tủ mạng & Cáp:
+  + 01 Tủ mạng Rack 27U chuẩn 19 inch, khay cố định, thanh nguồn PDU.
+  + 04 Thùng cáp xoắn đôi Cat6 UTP chính hãng đạt chuẩn quốc tế.
+  + 01 Bộ lưu điện UPS Online công suất tối thiểu 3000VA (3kVA) lưu điện cho tủ mạng tối thiểu 15 phút.
+
+3. YÊU CẦU VỀ DỊCH VỤ VÀ BẢO HÀNH/BẢO TRÌ:
+- Thi công trọn gói: Kéo cáp, bấm đầu, đấu nối patch panel, lắp đặt thiết bị vào tủ rack, dán nhãn quản lý.
+- Cấu hình phân chia 4 VLAN (Management, Staff, Guest, CCTV), QoS ưu tiên lưu lượng Voice/Video.
+- Dịch vụ bảo trì, hỗ trợ kỹ thuật: 01 năm gói On-site giờ hành chính (8x5), thời gian phản hồi sự cố tối đa 4 giờ.
+
+4. TIẾN ĐỘ VÀ LỊCH TRIỂN KHAI:
+- Thời gian bắt đầu triển khai: Dự kiến từ ngày 25/11/2026.
+- Thời hạn hoàn thành bàn giao nghiệm thu: Trước ngày 10/12/2026 (Khoảng 15 ngày làm việc).
+
+5. NGÂN SÁCH DỰ KIẾN:
+- Ngân sách trần dự toán được HĐQT duyệt: Tối đa 260.000.000 VNĐ (Hai trăm sáu mươi triệu đồng, chưa bao gồm VAT).
+- Đề xuất mức chiết khấu thương mại cạnh tranh để ưu tiên lựa chọn.
+

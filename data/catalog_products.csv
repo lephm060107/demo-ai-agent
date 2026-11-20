@@ -1,0 +1,17 @@
+sku,name,category,specs,stock,lead_time_days,cost_price,list_price
+SW-C9200L-24P,Cisco Catalyst 9200L 24-port PoE+,Switch,"24 cổng Gigabit PoE+ 370W, 4x10G SFP+, Layer 3 Lite, Stacking",12,3,28000000,38000000
+SW-C9200L-48P,Cisco Catalyst 9200L 48-port PoE+,Switch,"48 cổng Gigabit PoE+ 740W, 4x10G SFP+, Layer 3 Lite, Stacking",6,5,45000000,62000000
+SW-CBS350-24T,Cisco Business 350 24-Port GE,Switch,"24 cổng Gigabit RJ45, 4x10G SFP+, Layer 3, Non-PoE",15,2,14000000,19500000
+RT-ISR4331,Cisco ISR 4331 Router,Router,"Thông lượng 100-300Mbps, 3x GE, 2x NIM, tích hợp VPN IPsec, Firewall",4,7,35000000,48000000
+FW-FG60F,Fortinet FortiGate 60F,Firewall,"Throughput NGFW 1Gbps, Threat Protection 700Mbps, 10x GE RJ45, Hỗ trợ SD-WAN & HA",8,3,16500000,23000000
+FW-FG100F,Fortinet FortiGate 100F,Firewall,"Throughput NGFW 1.6Gbps, Threat Protection 1Gbps, 22x GE, 4x 10GE SFP+, Hỗ trợ SD-WAN & HA",3,10,48000000,68000000
+AP-ARUBA-515,Aruba AP-515 Unified Campus AP,Access Point,"Wi-Fi 6 (802.11ax), Dual-radio 4x4:4 MU-MIMO, max 2.69 Gbps, IoT-ready Bluetooth 5 & Zigbee",25,2,9500000,13500000
+AP-ARUBA-575,Aruba AP-575 Outdoor AP,Access Point,"Wi-Fi 6 Ngoài trời chịu thời tiết IP67, 4x4 MU-MIMO, công suất cao",4,14,24000000,33000000
+CAB-CAT6-COMMSCOPE,Thùng cáp CommScope Cat6 UTP 305m,Phụ kiện cáp,"Cáp mạng Cat6 chính hãng CommScope, đồng nguyên chất 23AWG, tiêu chuẩn TIA-568-C.2",40,1,2200000,3100000
+RACK-27U-D800,Tủ mạng Rack 27U D800 Vietrack,Tủ mạng & Phụ kiện,"Tủ rack 27U chuẩn 19 inch, cửa lưới, kèm ổ cắm 6 chấu, quạt hút",10,2,4500000,6200000
+UPS-APC-3KVA,Bộ lưu điện APC Smart-UPS SRT 3000VA,Nguồn dự phòng,"3000VA / 2700W, Online double conversion, rack/tower 2U",5,5,26000000,35000000
+SRV-INSTALL-BASIC,Dịch vụ khảo sát & lắp đặt cơ bản,Dịch vụ triển khai,"Khảo sát hiện trạng, gắn tủ rack, bấm cáp, dán nhãn, cấu hình VLAN, WiFi SSID",99,0,5000000,8000000
+SRV-INSTALL-PRO,Dịch vụ triển khai & cấu hình nâng cao,Dịch vụ triển khai,"Cấu hình SD-WAN, Firewall HA Active-Passive, VPN Site-to-Site, QoS, chính sách bảo mật",99,0,12000000,18000000
+SVC-MAINT-1Y-8X5,Gói bảo trì tiêu chuẩn 1 năm (8x5),Dịch vụ bảo trì,"Hỗ trợ kỹ thuật giờ hành chính 8x5, phản hồi trong 4 giờ, kiểm tra định kỳ hàng quý",99,0,8000000,12000000
+SVC-MAINT-1Y-24X7,Gói bảo trì cao cấp 1 năm (24x7 SLA 4h),Dịch vụ bảo trì,"Hỗ trợ 24x7x365, phản hồi tại chỗ trong 4 giờ, thay thế thiết bị tương đương tạm thời",99,0,18000000,28000000
+

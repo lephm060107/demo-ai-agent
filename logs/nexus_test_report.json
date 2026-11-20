@@ -1,0 +1,72 @@
+{
+  "total": 13,
+  "passed": 13,
+  "failed": 0,
+  "results": [
+    {
+      "test": "1.1 Unified Database 24 Normalized Tables Verification (Analytics + B2B RFQ)",
+      "status": "PASS",
+      "detail": "Tables=24/24 verified"
+    },
+    {
+      "test": "1.2 RBAC Hierarchy, CSV Formula & Prompt Injection Guards",
+      "status": "PASS",
+      "detail": "RBAC + CSV Injection + Prompt Injection guards verified"
+    },
+    {
+      "test": "2.1 Data Profiling & Semantic Role Detection Accuracy",
+      "status": "PASS",
+      "detail": "Revenue Mean=280.0 (Expected 280.0), Median=300.0 (Expected 300.0)"
+    },
+    {
+      "test": "2.2 Configurable Data Quality Score Formula Verification",
+      "status": "PASS",
+      "detail": "Completeness=97.14%, Uniqueness=80.0%, Overall=93.86"
+    },
+    {
+      "test": "2.3 Controlled Data Cleaning Engine (Duplicates, Missing, Text Normalization)",
+      "status": "PASS",
+      "detail": "Rows: 5 -> 4, Quality: 93.86 -> 100.0"
+    },
+    {
+      "test": "3.1 All 18 Analytical Methods Across 4 Levels (Descriptive/Diagnostic/Predictive/Prescriptive)",
+      "status": "PASS",
+      "detail": "Verified 18/18 methods with mathematical formulas & ECharts"
+    },
+    {
+      "test": "4.1 E2E Auth Login & Token Generation",
+      "status": "PASS",
+      "detail": "User=ceo@nexus.ai, Role=ADMIN"
+    },
+    {
+      "test": "4.2 E2E Multi-Sheet Excel Upload, Preview & Parquet v1 Import",
+      "status": "PASS",
+      "detail": "DatasetID=ds-81f500ff-500, Sheets=['Sales_Q4', 'Marketing_ROAS'], v1 Rows=4"
+    },
+    {
+      "test": "4.3 E2E Data Cleaning (v1 -> v2) & Rollback Restore to Immutable v1",
+      "status": "PASS",
+      "detail": "v2 Quality=100.0/100, Restored back to v1 (4 rows preserved)"
+    },
+    {
+      "test": "4.4 E2E AI Analytics Agent (Tool Calling, Evidence Ref & Anti-Hallucination)",
+      "status": "PASS",
+      "detail": "ToolsCalled=4, EvidenceRefs=4, GuardVerified=True"
+    },
+    {
+      "test": "4.5 E2E Executive Report Export (.xlsx & .docx) + RBAC 403 Enforcement",
+      "status": "PASS",
+      "detail": "Excel=11142B, Word=38647B, ViewerBlocked=True"
+    },
+    {
+      "test": "4.6 E2E Integrated B2B RFQ Workflow & DB Persistence (rfq_opportunities / rfq_runs / rfq_boq_items)",
+      "status": "PASS",
+      "detail": "PhaseStatus=COMPLETED, PersistedRfqRuns=30"
+    },
+    {
+      "test": "4.7 UX/UI 6-Area Information Architecture, Vietnamese Localization & BoQ->BI Bridge",
+      "status": "PASS",
+      "detail": "6 Nav Areas Verified=True, SyncedBoQDataset=[B2B RFQ BOQ] Dự Toán BoQ - CÔNG TY CỔ PHẦN TẬP ĐOÀN LOGISTICS "
+    }
+  ]
+}
